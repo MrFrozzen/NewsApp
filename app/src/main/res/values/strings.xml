@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="content_not_available">The content of this article is not available</string>
+    <string name="published_at">Published: %s</string>
+    <string name="saved_to_favorite">Saved to favorite</string>
+    <string name="removed_from_favorite">Removed from favorites</string>
+    <string name="failed_to_fetch_data">Failed to fetch data</string>
+    <string name="read_more_on">Read more on %s</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="business">business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="sports">sports</string>
+    <string name="technology">technology</string>
+    <string name="science">science</string>
+    <string name="health">health</string>
+    <string name="general">general</string>
+
+    <string name="you_are_offline">You are offline</string>
+    <string name="retry">Retry</string>
+    <string name="use_other_keywords">Use other keywords</string>
+    <string name="no_result_found">No result found</string>
+    <string name="refresh">Reload</string>
+    <string name="empty_favorite">Empty favorite</string>
+    <string name="add_favorite_article">Add articles from home page or search results</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="remove">Remote</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+
+    <string name="news_api_url">https://newsapi.org</string>
+    <string name="powered_by_news_api">Powered by News API</string>
+
+    <string name="github_url">https://github.com/mrfrozzen</string>
+    <string name="about">About</string>
+    <string name="more_information_on_github">More information on GitHub</string>
+    <string name="contact_me_by_email">Contact me by email</string>
+    <string name="my_email">frozzenmr@ya.ru</string>
+    <string name="version_template">Version %s</string>
+
+</resources>
